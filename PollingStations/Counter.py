@@ -1,0 +1,3 @@
+import Voter
+
+class Counter():
